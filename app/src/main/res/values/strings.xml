@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizzyDemo</string>
+    <string name="sign_up">Register</string>
+    <string name="top_result">Top Results</string>
+    <string name="user_name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+</resources>
